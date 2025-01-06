@@ -1,0 +1,5 @@
+# Ignoring models folder because too big 
+Models
+
+# cache file
+__pycache__
